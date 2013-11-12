@@ -37,9 +37,10 @@
 | in the URL cannot be matched to a valid route.
 |
 */
-$route['ControlPanel/admin'] = "admin";
-$route['default_controller'] = "admin";
-$route['404_override'] = '';
+  //$route['admin'] 		      = "admin";
+//$route['ControlPanel/admin/check_login']= "admin/check_login";
+//$route['default_controller'] 			  = "main";
+  $route['404_override'] 		 			  = '';
 
 
 /* End of file routes.php */

@@ -1,0 +1,19 @@
+#wrapper
+{
+
+	width: 960px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+
+#loginbox
+{
+	width:  260px;
+	margin: 0 auto;
+	height: 300px;
+}
+
+.center
+{
+	text-align: center;
+}
